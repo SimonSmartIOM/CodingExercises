@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelandUsernameValidation", "CodelandUsernameValidation\CodelandUsernameValidation.csproj", "{99701FA8-B782-4F8F-8B52-A76C5D1662C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsernameValidationTests", "UsernameValidationTests\UsernameValidationTests.csproj", "{9AEB4C85-8E44-44F4-8AD9-3C2385EB0D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99701FA8-B782-4F8F-8B52-A76C5D1662C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99701FA8-B782-4F8F-8B52-A76C5D1662C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99701FA8-B782-4F8F-8B52-A76C5D1662C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99701FA8-B782-4F8F-8B52-A76C5D1662C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEB4C85-8E44-44F4-8AD9-3C2385EB0D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEB4C85-8E44-44F4-8AD9-3C2385EB0D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEB4C85-8E44-44F4-8AD9-3C2385EB0D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEB4C85-8E44-44F4-8AD9-3C2385EB0D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
