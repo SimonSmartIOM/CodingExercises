@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-ObjectOriented", "RocketStages-ObjectOriented\RocketStages-ObjectOriented.csproj", "{F719E607-9B82-45F0-B946-9086BFA51773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-DynamicProgramming", "RocketStages-DynamicProgramming\RocketStages-DynamicProgramming.csproj", "{E6F9BCEC-2933-45BB-8712-0414E4B8CDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-ChatGPT", "RocketStages-ChatGPT\RocketStages-ChatGPT.csproj", "{49C73F47-3333-41C1-9FA1-40E25041AF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-ObjectOriented-Tests", "RocketStages-ObjectOriented-Tests\RocketStages-ObjectOriented-Tests.csproj", "{5F8DE2A3-C61D-431A-BFF0-6557407BE1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-DynamicProgramming-Tests", "RocketStages-DynamicProgramming-Tests\RocketStages-DynamicProgramming-Tests.csproj", "{CFEF8025-C879-442C-ACDC-CB3549B86FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketStages-ChatGPT-Tests", "RocketStages-ChatGPT-Tests\RocketStages-ChatGPT-Tests.csproj", "{00868D5F-2383-4784-B013-35F95C3A1DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F719E607-9B82-45F0-B946-9086BFA51773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F719E607-9B82-45F0-B946-9086BFA51773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F719E607-9B82-45F0-B946-9086BFA51773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F719E607-9B82-45F0-B946-9086BFA51773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F9BCEC-2933-45BB-8712-0414E4B8CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F9BCEC-2933-45BB-8712-0414E4B8CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F9BCEC-2933-45BB-8712-0414E4B8CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F9BCEC-2933-45BB-8712-0414E4B8CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C73F47-3333-41C1-9FA1-40E25041AF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C73F47-3333-41C1-9FA1-40E25041AF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C73F47-3333-41C1-9FA1-40E25041AF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C73F47-3333-41C1-9FA1-40E25041AF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8DE2A3-C61D-431A-BFF0-6557407BE1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8DE2A3-C61D-431A-BFF0-6557407BE1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8DE2A3-C61D-431A-BFF0-6557407BE1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8DE2A3-C61D-431A-BFF0-6557407BE1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEF8025-C879-442C-ACDC-CB3549B86FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEF8025-C879-442C-ACDC-CB3549B86FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEF8025-C879-442C-ACDC-CB3549B86FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEF8025-C879-442C-ACDC-CB3549B86FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00868D5F-2383-4784-B013-35F95C3A1DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00868D5F-2383-4784-B013-35F95C3A1DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00868D5F-2383-4784-B013-35F95C3A1DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00868D5F-2383-4784-B013-35F95C3A1DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
